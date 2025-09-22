@@ -44,11 +44,3 @@ The dataset contains the following columns:
 **Evaluation:** Accuracy, Confusion Matrix, Classification Report, ROC AUC
 
 ---
-
-## How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/loan-prediction.git
-cd loan-prediction
