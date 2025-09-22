@@ -41,6 +41,6 @@ The dataset contains the following columns:
 - Random Forest Classifier  
 - XGBoost Classifier  
 
-**Evaluation:** Accuracy, Confusion Matrix, Classification Report, ROC AUC
+**Evaluation:** Accuracy, Confusion Matrix, Classification Report
 
 ---
